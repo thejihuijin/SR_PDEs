@@ -1,0 +1,10 @@
+# Ignore data files
+*.h5
+*.mat
+
+# Command line data
+*.swp
+
+# Trained weights
+weights/*
+channelflow_weights/*
